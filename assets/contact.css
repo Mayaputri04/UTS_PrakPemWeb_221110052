@@ -1,0 +1,23 @@
+.form-group label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.contact-section {
+  padding: 50px 0;
+}
+
+@media (max-width: 767px) {
+  .contact-section {
+    padding: 30px 0;
+  }
+}
